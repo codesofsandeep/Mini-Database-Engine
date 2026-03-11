@@ -1,2 +1,2 @@
-{"ts": 1773217050.881932, "op": "SET", "col": "users", "key": "u:1", "val": {"name": "Alice"}}
-{"ts": 1773217050.882039, "op": "DELETE", "col": "users", "key": "u:1", "val": null}
+{"ts": 1773217419.057934, "op": "SET", "col": "users", "key": "u:1", "val": {"name": "Alice"}}
+{"ts": 1773217419.058057, "op": "DELETE", "col": "users", "key": "u:1", "val": null}

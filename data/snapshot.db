@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "saved_at": 1773218295.2707798,
+  "collections": {
+    "users": {
+      "u:1": {
+        "name": "Alice",
+        "age": 28,
+        "city": "New York",
+        "score": 92,
+        "active": true
+      },
+      "u:2": {
+        "name": "Bob"
+      },
+      "u1": "Alice",
+      "id1": "User"
+    },
+    "products": {
+      "p1": "Laptop"
+    },
+    "default": {}
+  }
+}
